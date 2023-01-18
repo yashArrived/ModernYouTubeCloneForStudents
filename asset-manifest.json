@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ModernYouTubeCloneForStudents/static/css/main.7064deb2.css",
+    "main.js": "/ModernYouTubeCloneForStudents/static/js/main.b5984c96.js",
+    "index.html": "/ModernYouTubeCloneForStudents/index.html",
+    "main.7064deb2.css.map": "/ModernYouTubeCloneForStudents/static/css/main.7064deb2.css.map",
+    "main.b5984c96.js.map": "/ModernYouTubeCloneForStudents/static/js/main.b5984c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.b5984c96.js"
+  ]
+}
