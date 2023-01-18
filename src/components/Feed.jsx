@@ -14,7 +14,7 @@ import { Instagram } from '@mui/icons-material';
 
 
 const Feed = () => {
-  const [selectedCategory,setSelectedCategory] = useState("New");
+  const [selectedCategory,setSelectedCategory] = useState("Indian Music");
 
   const [ videos , setVideos] = useState([]);
 

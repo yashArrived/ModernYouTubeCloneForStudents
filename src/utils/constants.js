@@ -19,7 +19,7 @@ import TrendingUpOutlinedIcon from '@mui/icons-material/TrendingUpOutlined';
 import CandlestickChartOutlinedIcon from '@mui/icons-material/CandlestickChartOutlined';
 import DataObjectOutlinedIcon from '@mui/icons-material/DataObjectOutlined';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = '../imgs/logo.png';
 
 export const categories = [
   // { name: 'New', icon: <HomeIcon />, },
@@ -28,7 +28,7 @@ export const categories = [
   { name: 'ReactJS', icon: <DataObjectOutlinedIcon />, },
   { name: 'Data Structures', icon: <CodeIcon />, },
   { name: 'Personal Growth', icon: <PersonAddAltOutlinedIcon />, },
-  { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Music (India)', icon: <MusicNoteIcon /> },
   { name: 'Stocks (INDIA)', icon: <CandlestickChartOutlinedIcon /> },
   { name: 'Stocks (US)', icon: <CandlestickChartOutlinedIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
@@ -49,6 +49,6 @@ export const categories = [
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoChannelTitle = 'Assignment Buddy';
+export const demoVideoTitle = 'Robinhoods - Desfect';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
