@@ -19,7 +19,7 @@ import TrendingUpOutlinedIcon from '@mui/icons-material/TrendingUpOutlined';
 import CandlestickChartOutlinedIcon from '@mui/icons-material/CandlestickChartOutlined';
 import DataObjectOutlinedIcon from '@mui/icons-material/DataObjectOutlined';
 
-export const logo = '../imgs/logo.png';
+// export const logo = '../../imgs/logo.png';
 
 export const categories = [
   // { name: 'New', icon: <HomeIcon />, },
