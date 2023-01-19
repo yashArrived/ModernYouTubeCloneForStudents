@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/ModernYouTubeCloneForStudents/static/css/main.7064deb2.css",
-    "main.js": "/ModernYouTubeCloneForStudents/static/js/main.05e8a25d.js",
+    "main.js": "/ModernYouTubeCloneForStudents/static/js/main.ddcbf536.js",
+    "static/media/logo.png": "/ModernYouTubeCloneForStudents/static/media/logo.60b3c0943f09165848b2.png",
     "index.html": "/ModernYouTubeCloneForStudents/index.html",
     "main.7064deb2.css.map": "/ModernYouTubeCloneForStudents/static/css/main.7064deb2.css.map",
-    "main.05e8a25d.js.map": "/ModernYouTubeCloneForStudents/static/js/main.05e8a25d.js.map"
+    "main.ddcbf536.js.map": "/ModernYouTubeCloneForStudents/static/js/main.ddcbf536.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.05e8a25d.js"
+    "static/js/main.ddcbf536.js"
   ]
 }
